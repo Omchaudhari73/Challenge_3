@@ -1,0 +1,3 @@
+To unlock the flag, you must travel from the first destination to the last. 
+Combine the first three letters of each location's name to create the password for the zip file.
+For ex:- xyz_abc all small !!
